@@ -10,8 +10,7 @@ https://github.com/Mohammed-19992/scheduler/blob/master/Screen%20Shot%202020-09-
 
 
 * The URL of the deployed application.
-https://mohammed-19992.github.io/scheduler/
+https://mohammed-19992.github.io/day-planner/
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-https://github.com/Mohammed-19992/scheduler
-
+https://github.com/Mohammed-19992/day-planner
